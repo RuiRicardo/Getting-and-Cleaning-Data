@@ -1,7 +1,7 @@
 library(plyr)
 
 # set your working directory
-setwd("D:/rricardo/priv/coursera/03 Getting and Cleaning Data/work/assign")
+setwd(".")
 
 # 1-Merge training and test data.
     
